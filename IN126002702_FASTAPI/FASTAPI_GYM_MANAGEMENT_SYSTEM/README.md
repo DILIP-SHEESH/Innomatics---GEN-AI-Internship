@@ -227,9 +227,3 @@ POST /memberships
 ## 👨‍💻 Author
 
 **Dilip**
-
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub and share your feedback!
